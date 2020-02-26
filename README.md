@@ -1,7 +1,7 @@
-# Assignments for Models of Higher Brain Functions
+# Example coursework
 
 ## Description
-This is the course work for Models of Higher Brain Functions 2019/2020 at the TU Berlin. 
+These are solutions for a course at the TU Berlin 2019/2020. 
 
 The topics of the sheets are as follows:
 1. Visual Perception
@@ -15,4 +15,4 @@ The topics of the sheets are as follows:
 
 
 ## How to run
-The jupyter notebooks are not dependent on each other and can be run individually. Most of them need numpy and matplotlib, so you might want to install these. Rarely, scipy and pyTorch are also used.
+The jupyter notebooks are not dependent on each other and can be run individually. Most of them need NumPy and Matplotlib, so you might want to install these. Rarely, SciPy and PyTorch are also used.
